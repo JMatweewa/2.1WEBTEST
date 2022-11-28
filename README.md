@@ -1,1 +1,1 @@
-[![Java CI](https://github.com/JMatweewa/2.1WEBTEST/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/JMatweewa/2.1WEBTEST/actions/workflows/maven.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/udd0yjb5t9a866p5?svg=true)](https://ci.appveyor.com/project/JMatweewa/2-1webtest)

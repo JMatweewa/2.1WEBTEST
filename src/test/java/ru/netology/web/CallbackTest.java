@@ -37,11 +37,6 @@ public class CallbackTest {
     }
 
     @Test
-    void shouldTestSomething() {
-        throw new UnsupportedOperationException();
-    }
-
-    @Test
     void shouldSubmitRequest() {
         driver.findElement(By.cssSelector("[data-test-id=name] input")).sendKeys("Иван");
         driver.findElement(By.cssSelector("[data-test-id=phone] input")).sendKeys("+79270001234");

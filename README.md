@@ -1,0 +1,1 @@
+[![Java CI](https://github.com/JMatweewa/2.1WEBTEST/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/JMatweewa/2.1WEBTEST/actions/workflows/maven.yml)
